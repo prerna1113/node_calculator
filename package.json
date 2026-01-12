@@ -1,0 +1,12 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "Node.js calculator with tests and CI",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
